@@ -90,16 +90,16 @@ Sitio web donde presento mis proyectos, tecnologías y experiencia como desarrol
 📧 **pipetimoty@gmail.com**
 
 🌐 **Portafolio Web**
-*(Agrega el enlace cuando publiques la versión definitiva.)*
+https://pipehd54.github.io/Andres-Dev-Portafolio/
 
 💼 **LinkedIn**
-*(Agrega aquí tu perfil.)*
+www.linkedin.com/in/andrés-felipe-timote-daza-70052522b
 
 ---
 
 <div align="center">
 
-### ⭐ Gracias por visitar mi perfil ⭐
+###  Gracias por visitar mi perfil 
 
 Siempre estoy abierto a aprender, colaborar y participar en nuevos proyectos.
 
